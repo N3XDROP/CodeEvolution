@@ -33,12 +33,13 @@ La capa visual se desarrolla con **HTML** y **CSS**, siguiendo buenas prácticas
 ---
 
 ## Estructura Proyecto:
+```
 CodeEvolution/
 ├── backend/ # API con Express y TypeScript
 ├── frontend/ # Interfaz con React y TypeScript
 └── README.md # Documentación inicial
-
+```
 ---
 
 ## Fecha ultima actualización
-- 30/09/2025
+- ![last commit](https://img.shields.io/github/last-commit/<TU_USUARIO>/<TU_REPO>?color=blue&label=última%20actualización)
