@@ -14,6 +14,7 @@ Carpeta contenedora del backend para el aplicativo, con uso de Express y typeScr
 ---
 
 ## Estructura backend:
+```
 backend/
 ├─ src/
 │  ├─ routes/
@@ -25,5 +26,5 @@ backend/
 ├─ package.json
 ├─ tsconfig.json
 └─ (dist/ se genera al compilar)
-
+```
 ---
